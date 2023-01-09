@@ -1,2 +1,2 @@
 # Cat-Game
-Created with CodeSandbox
+Silly cat chases mouse for eternity!
